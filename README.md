@@ -24,4 +24,4 @@ The menu remains fixed at the top of the page and updates dynamically based on u
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    ```
-2. Open index.html in your browser to view the menu in action.
+2. Open ```index.html``` in your browser to view the menu in action.
