@@ -22,6 +22,6 @@ The menu remains fixed at the top of the page and updates dynamically based on u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/AyanMujawar/PRODIGY_WD_01-Responsive-Landing-Page.git)
    ```
 2. Open ```index.html``` in your browser to view the menu in action.
